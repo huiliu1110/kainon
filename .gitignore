@@ -1,2 +1,3 @@
 **/*.DS_Store
 kainon/gulp/node_modules/
+kainon/target/
